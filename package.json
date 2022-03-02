@@ -1,0 +1,16 @@
+{
+  "name": "tres-pasos",
+  "version": "1.0.0",
+  "description": "bim360 ",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jrm",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "express": "^4.17.3",
+    "forge-apis": "^0.9.0"
+  }
+}
